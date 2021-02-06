@@ -1,0 +1,2 @@
+# RO
+FMPH Rozpoznavanie Obrazcov
